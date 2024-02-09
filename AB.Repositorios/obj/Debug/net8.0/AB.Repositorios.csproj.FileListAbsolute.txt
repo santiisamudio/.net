@@ -1,0 +1,15 @@
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\bin\Debug\net8.0\AB.Repositorios.deps.json
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\bin\Debug\net8.0\AB.Repositorios.dll
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\bin\Debug\net8.0\AB.Repositorios.pdb
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\bin\Debug\net8.0\AB.Aplicacion.dll
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\bin\Debug\net8.0\AB.Aplicacion.pdb
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\AB.Repositorios.csproj.AssemblyReference.cache
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\AB.Repositorios.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\AB.Repositorios.AssemblyInfoInputs.cache
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\AB.Repositorios.AssemblyInfo.cs
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\AB.Repositorios.csproj.CoreCompileInputs.cache
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\AB.Repositorios.csproj.CopyComplete
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\AB.Repositorios.dll
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\refint\AB.Repositorios.dll
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\AB.Repositorios.pdb
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Repositorios\obj\Debug\net8.0\ref\AB.Repositorios.dll

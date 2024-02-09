@@ -1,0 +1,11 @@
+C:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\bin\Debug\net8.0\AB.Aplicacion.deps.json
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\bin\Debug\net8.0\AB.Aplicacion.dll
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\bin\Debug\net8.0\AB.Aplicacion.pdb
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\obj\Debug\net8.0\AB.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\obj\Debug\net8.0\AB.Aplicacion.AssemblyInfoInputs.cache
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\obj\Debug\net8.0\AB.Aplicacion.AssemblyInfo.cs
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\obj\Debug\net8.0\AB.Aplicacion.csproj.CoreCompileInputs.cache
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\obj\Debug\net8.0\AB.Aplicacion.dll
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\obj\Debug\net8.0\refint\AB.Aplicacion.dll
+c:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\obj\Debug\net8.0\AB.Aplicacion.pdb
+C:\Users\santi\proyectosDotnet\AseguradoraBlazor2\AB.Aplicacion\obj\Debug\net8.0\ref\AB.Aplicacion.dll
